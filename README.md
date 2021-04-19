@@ -15,7 +15,7 @@ We will be using, specifically:
 3. Hasura.io (hosted on Heroku)
 4. GraphQL
 5. The [Apollo open-source server](https://www.apollographql.com/docs/intro/platform)
-5. The basic web developer tools: a browser, an IDE and a command line executing interface (e.g. a Terminal console)
+5. The basic web developer tools: a browser, an IDE, a mackage manager (in my case it's  [npm](https://www.whitesourcesoftware.com/free-developer-tools/blog/npm-vs-yarn-which-should-you-choose/)), and a command line executing interface (e.g. a Terminal console)
 
 I've logged a step-by-step development log you can use to recreate this repo from scratch and learn the techniques and concepts used. You can find this "Dev_Log" right [here](Dev_Log.md) next to this Readme file.
 
