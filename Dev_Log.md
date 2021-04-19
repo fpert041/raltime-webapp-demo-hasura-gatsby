@@ -379,4 +379,3 @@ Would you like each of the posts made to have its own page? We can dynamically d
    * Now we should have a fully linked site, with an index of clickable post titles, and post pages linking back to the index: It's finally time to build into our webapp some **realtime dynamic stuff** with [Apollo](https://www.apollographql.com/docs/intro/platform/)
 
 #### HERE ####
-https://youtu.be/HTEGGndT3zY?t=4455
